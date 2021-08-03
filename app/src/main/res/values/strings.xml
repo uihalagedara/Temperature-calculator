@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature calculator</string>
+    <string name="btn_farenhiet">Farenhiet</string>
+    <string name="btn_celcius">Celcius</string>
+</resources>
